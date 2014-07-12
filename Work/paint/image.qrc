@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/image">
+        <file alias="Brush">QQ图片20140615134909.jpg</file>
+        <file alias="Color">QQ图片20140615133820.jpg</file>
+        <file alias="Eraser">QQ图片20140615131817.jpg</file>
+        <file alias="Pen">QQ图片20140615131954.jpg</file>
+        <file alias="Word">QQ图片20140615132016.jpg</file>
+    </qresource>
+</RCC>
